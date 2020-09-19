@@ -1,0 +1,7 @@
+label[type="checkbox"]{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+input[type="checkbox"]{
+    margin-right: 5px;
+}
